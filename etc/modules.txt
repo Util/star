@@ -4,7 +4,7 @@
 #   here __AND__ all of them do require a "git tag"!
 
 # Zef, the package manager
-zef                      git  https://github.com/ugexe/zef.git                                       v0.22.0        
+zef                      git  https://github.com/ugexe/zef.git                                       v0.22.1        
 App::Zef-Deps            git  https://github.com/coke/raku-zef-deps.git                              0.9.8          
 
 # Documentation utilities
@@ -12,7 +12,7 @@ File-Find                git  https://github.com/raku-community-modules/File-Fin
 
 # Logging
 Log                      git  https://git.tyil.nl/raku/log                                           master         
-Log-Colored              git  https://git.tyil.nl/raku/log-colored                                   master         
+Log-Colored              git  https://git.tyil.nl/raku/log-colored                                   v0.1.2         
 
 # terminal related modules
 Terminal-ANSIColor       git  https://github.com/tadzik/Terminal-ANSIColor.git                       0.9.1          
